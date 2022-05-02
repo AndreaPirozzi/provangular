@@ -1,0 +1,12 @@
+ul{
+    list-style: none;
+}
+ul li a{
+    font-style: none;
+    
+}
+.nav-wrapper{
+    background-color: aquamarine;
+    width: 200px;
+    height: 100%;
+}
